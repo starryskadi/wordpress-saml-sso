@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: OneLogin SAML Admin Login
- * Description: Forces admin login through SAML (OneLogin).
+ * Plugin Name: Wordpress SAML Admin Login
+ * Description: Login to Wordpress using SAML.
  * Version: 1.0
  * Author: Kyaw Zayar Win <kyawzayarwin.com>
  * Author URI: https://kyawzayarwin.com
